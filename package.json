@@ -1,5 +1,6 @@
-{"name": "github-search",
-  "homepage": "http://AryaJawarkar.github.io/github-users-search",
+{
+  "homepage": "http://AryaJawarkar.github.io/github-search",
+  "name": "github-search",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
