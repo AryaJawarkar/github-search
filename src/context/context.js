@@ -44,7 +44,7 @@ setLoading(false)
 }).catch((err)=>console.log(err));
 
 }
-if(resp.data){
+if(!resp.data){
     setLoading(false)
     toggleError(true,'User not found');
 }
